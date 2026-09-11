@@ -46,7 +46,7 @@ string[] splitChar2 = tijdstip2.Split(":");
 int intTijdstip2 = Int32.Parse(splitChar2[0]);
 string[] splitChar3 = tijdstip3.Split(":");
 int intTijdstip3 = Int32.Parse(splitChar3[0]);
-Console.WriteLine(intTijdstip1);
+
 //piekTariefbedrag
 float piekTarief = 0.30f;
 float dalTarief = 0.25f;
