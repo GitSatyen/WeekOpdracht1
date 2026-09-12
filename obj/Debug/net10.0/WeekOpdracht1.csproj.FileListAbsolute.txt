@@ -12,3 +12,4 @@ D:\SchoolZaken\Avans\SmartMeterDataProcessing\SoftwareOntwikkelen\WeekOpdracht1\
 D:\SchoolZaken\Avans\SmartMeterDataProcessing\SoftwareOntwikkelen\WeekOpdracht1\obj\Debug\net10.0\WeekOpdracht1.pdb
 D:\SchoolZaken\Avans\SmartMeterDataProcessing\SoftwareOntwikkelen\WeekOpdracht1\obj\Debug\net10.0\WeekOpdracht1.genruntimeconfig.cache
 D:\SchoolZaken\Avans\SmartMeterDataProcessing\SoftwareOntwikkelen\WeekOpdracht1\obj\Debug\net10.0\ref\WeekOpdracht1.dll
+D:\SchoolZaken\Avans\SmartMeterDataProcessing\SoftwareOntwikkelen\WeekOpdracht1\obj\Debug\net10.0\WeekOpdracht1.sourcelink.json
